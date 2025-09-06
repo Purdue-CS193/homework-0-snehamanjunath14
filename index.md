@@ -1,8 +1,8 @@
 ## Welcome to Sneha's first CS 19300 Homework
 
-- Love how basics are taught
-- Useful and Informative Content
-- PRofessors are very helpful.
+- Love how basics are taught.
+- Useful and Informative Content.
+- Professors are very helpful.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
